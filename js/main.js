@@ -23,7 +23,7 @@ function inception(display, favMovie) {
     display(favMovie);
 }
 
-function display() {
+function display(favMovie) {
     console.log(favMovie + ' is a fantastic movie.');
 }
 
