@@ -1,4 +1,6 @@
-# Resources
+# [hw_javascript_whiteley_tara](https://github.com/tarawhiteley/hw_javascript_whiteley_tara)
+
+## Resources
 
 For this assignment, I used the following resources:
 
@@ -7,11 +9,11 @@ For this assignment, I used the following resources:
 - your help via email
 - and text messages between Lauren, Blakeley and myself
 
-## Deductions
+### Deductions
 
 - I reviewed the list of deductions for this project and in the syllabus.
 
-### Comments
+#### Comments
 
 As expected, the functions that were required in this assignment proved the most difficult.
 
